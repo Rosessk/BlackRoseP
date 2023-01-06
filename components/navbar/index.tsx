@@ -23,7 +23,7 @@ export default function Navbar({main,dashboard,datamanager}) {
     return (
       <>
       {/* <Disclosure as="nav" className="sticky top-0 z-10 px-3 bg-white md:bg-opacity-5  backdrop-blur-md"> */}
-      <Disclosure as="nav" className="sticky top-0 z-10 px-3 bg-violet-600   backdrop-blur-md">
+      <Disclosure as="nav" className="sticky top-0 z-10 px-3 bg-violet-300   backdrop-blur-md">
       {({ open }) => (
         <>
       

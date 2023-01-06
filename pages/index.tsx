@@ -15,7 +15,7 @@ export default function Home() {
     
        <Image
               className="rounded-lg object-cover"
-              src="/work_time.svg"
+              src="/thumb_30605_default_news_size_5.jpeg"
               alt="kapacitor"
                width="800"
                height="1200"
