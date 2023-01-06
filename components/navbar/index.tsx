@@ -11,7 +11,7 @@ import { FaHome, FaChartPie, FaDatabase } from "react-icons/fa";
 export default function Navbar({main,dashboard,datamanager}) {
 
   const navigation = [
-    { name: 'หน้าหลัก', href: '/', current: main ,icon: FaHome},
+    { name: 'หน้าแรก', href: '/', current: main ,icon: FaHome},
     { name: 'รายงานผู้บริหาร', href: 'dashboard', current: dashboard, icon:FaChartPie },
     { name: 'จัดการข้อมูล', href: 'datamanager', current: datamanager, icon: FaDatabase },
   ]
